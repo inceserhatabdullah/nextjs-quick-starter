@@ -37,3 +37,16 @@ printf 'module.exports = {
 ```bash
 sed -i '' '1s/^/@tailwind base;@tailwind components;@tailwind utilities;\n/' styles/globals.css
 ```
+
+### Results
+![Screenshot](./images/1)
+---
+![Screenshot](./images/2)
+---
+![Screenshot](./images/3)
+---
+![Screenshot](./images/4)
+---
+![Screenshot](./images/5)
+---
+![Screenshot](./images/6)
